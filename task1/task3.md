@@ -153,6 +153,6 @@ Status: Not Eligible
 ------ FINAL RESULT ------
 Most Economical Plan: Standard Plan
 Total Cost: Rs. 299
-# 8. Output Screenshot
+# 7. Output Screenshot
 
 <img width="900" height="854" alt="image" src="https://github.com/user-attachments/assets/53480bec-4364-46c5-8142-e665d9da6cbd" />
