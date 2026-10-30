@@ -1,4 +1,4 @@
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/9064162f-3b88-4771-b33b-150b791c0a5f" /># 1. Problem Statement
+1. Problem Statement
 Develop a Python program to generate a retail bill for multiple products. The program should accept product names, quantities, prices, and categories. It should calculate the total amount, apply category-specific taxes, provide discounts based on purchase amount, and ensure that the discount does not exceed the maximum concession limit. Finally, it should display an itemized invoice with product details, taxes, discounts, and the final payable amount.
 # 2. Algorithm
 1. Start the program.
@@ -139,5 +139,5 @@ Gross total	₹61,240
 Discount (10%, capped)	₹1,000
 Final payable amount	₹60,240
 # 8. Output screen short
-
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/9064162f-3b88-4771-b33b-150b791c0a5f" /># 
 
