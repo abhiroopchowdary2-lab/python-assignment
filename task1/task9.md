@@ -146,3 +146,4 @@ Total Marks: 195 / 300
 Percentage: 65.0 %
 Final Classification: FIRST CLASS
 # 7.Output screenshot
+<img width="467" height="549" alt="image" src="https://github.com/user-attachments/assets/094eea56-bf2b-421e-adbb-c0b912bc2327" />
