@@ -119,3 +119,4 @@ Break-even Status: Achievable
 - Participant Contribution: ₹456.67
 - Minimum Registrations: 48 participants
 - Break-even Status: Achievable
+- <img width="751" height="347" alt="image" src="https://github.com/user-attachments/assets/6e292a8c-c9ff-433a-bb57-28170c1ec524" />
