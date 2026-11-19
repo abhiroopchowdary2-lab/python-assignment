@@ -129,3 +129,4 @@ Expected final attendance: 75.0 %
 
 Attendance calculation completed.
 # 7.Output screenshot
+<img width="593" height="421" alt="image" src="https://github.com/user-attachments/assets/d8dbd781-cf7f-412f-b33a-694deeb3b69c" />
