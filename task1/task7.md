@@ -94,3 +94,4 @@ Travel Budget: 100000 INR
 Budget Status: Within Budget
 Largest Expense: Hotel
 # 7.Output screenshot
+<img width="960" height="830" alt="image" src="https://github.com/user-attachments/assets/0957c66e-7200-4d25-8b53-62a92899a240" />
